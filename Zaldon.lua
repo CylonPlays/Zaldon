@@ -1,5 +1,5 @@
 _addon.name = 'Zaldon'
-_addon.author = 'Custom'
+_addon.author = 'Sylphiana'
 _addon.version = '1.7'
 _addon.commands = {'zaldon', 'zal'}
 
